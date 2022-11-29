@@ -21,7 +21,7 @@ This will launch a separate tool with interfaces for all 4 scripts. Just click t
 ## Assigning Hotkeys:
 
 Macros are generated for quick running of all available scripts, including the GUI.
-To assign a hotkey, in 3DS Max go to `Customize -> Hotkey Editor` and choose the category `FreeLime`. From there you should see macros for:
+To assign a hotkey, in 3DS Max go to `Customize -> Hotkey Editor` and choose the category `Bailey3D`. From there you should see macros for:
 
 Mesh Splitter (GUI)
 Split By Face Color
