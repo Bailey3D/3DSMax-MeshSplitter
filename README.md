@@ -37,10 +37,10 @@ If you have any issues running the script, feel free to reach out and I'll do my
 
 ## Examples
 
-<img src="https://raw.githubusercontent.com/Bailey3D/3DSMax-MeshSplitter/main/images/img_01.png" width="100"/>
+<img src="https://raw.githubusercontent.com/Bailey3D/3DSMax-MeshSplitter/main/images/img_01.png" width="100%"/>
 
-<img src="https://raw.githubusercontent.com/Bailey3D/3DSMax-MeshSplitter/main/images/img_02.png" width="100"/>
+<img src="https://raw.githubusercontent.com/Bailey3D/3DSMax-MeshSplitter/main/images/img_02.png" width="100%"/>
 
-<img src="https://raw.githubusercontent.com/Bailey3D/3DSMax-MeshSplitter/main/images/img_03.png" width="100"/>
+<img src="https://raw.githubusercontent.com/Bailey3D/3DSMax-MeshSplitter/main/images/img_03.png" width="100%"/>
 
-<img src="https://raw.githubusercontent.com/Bailey3D/3DSMax-MeshSplitter/main/images/img_04.png" width="100"/>
+<img src="https://raw.githubusercontent.com/Bailey3D/3DSMax-MeshSplitter/main/images/img_04.png" width="100%"/>
